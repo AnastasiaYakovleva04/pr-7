@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/F+rrutqeJc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Админ\\Documents\\программки\\c#\\yakovleva-pr7-v25\\yakovleva-pr7-v25\\yakovleva-pr7-v25.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Админ\\.nuget\\packages\\materialdesigncolors\\5.4.0\\materialdesigncolors.5.4.0.nupkg.sha512",
+    "C:\\Users\\Админ\\.nuget\\packages\\materialdesignthemes\\5.4.0\\materialdesignthemes.5.4.0.nupkg.sha512",
+    "C:\\Users\\Админ\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.142\\microsoft.xaml.behaviors.wpf.1.1.142.nupkg.sha512"
+  ],
+  "logs": []
+}
